@@ -1,4 +1,5 @@
 import "./App.css";
+import Plasma from "./Plasma";
 
 function App() {
   return (
